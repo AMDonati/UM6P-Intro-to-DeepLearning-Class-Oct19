@@ -10,4 +10,4 @@ Teaching Materials for my 2-day 'Introduction to Deep Learning' class of the Dat
 * [Backpropagation concept explained in 5 levels of difficulty](https://medium.com/coinmonks/backpropagation-concept-explained-in-5-levels-of-difficulty-8b220a939db5)
 
 #### About the universal function approximation theorem
-* [A visual prooh that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html)
+* [A visual proof that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html)
