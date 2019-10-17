@@ -2,7 +2,8 @@
 Teaching Materials for my 2-day 'Introduction to Deep Learning' class of the Data Science Specialization of [Mohammed VI University Polytechnic](https://www.um6p.ma/)
 
 ### To clone this github repo:
-In a terminal, execute the following command: 
+In a terminal, execute the following command:  
+
     git clone https://github.com/AMDonati/UM6P-Intro-to-DeepLearning-Class-Oct19.git
 
 ## Slides 
