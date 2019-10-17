@@ -7,7 +7,7 @@ Teaching Materials for my 2-day 'Introduction to Deep Learning' class of the Dat
 ## Reading activity (day one)
 #### About backpropagation
 * [Understanding backpropagation algorithm](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)
-* [Backpropagation concept explained in 5 levels of difficulty][https://medium.com/coinmonks/backpropagation-concept-explained-in-5-levels-of-difficulty-8b220a939db5]
+* [Backpropagation concept explained in 5 levels of difficulty([https://medium.com/coinmonks/backpropagation-concept-explained-in-5-levels-of-difficulty-8b220a939db5)
 
 #### About the universal function approximation theorem
 * [A visual prooh that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html)
