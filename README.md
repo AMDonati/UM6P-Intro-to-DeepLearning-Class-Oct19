@@ -8,6 +8,7 @@ In a terminal, execute the following command:
 
 ## Slides 
 * [Day one: Introduction to Deep Learning, Presentation of a Neural Network, Backpropagation in a NN](https://docs.google.com/presentation/d/1Z5GFv0cHoe3j2o61SmvJqQBrTsWctQwXmykcC0LDykg/edit?usp=sharing)
+* [Day two: Tricks to train (well) a Deep Neural Netowrk](https://docs.google.com/presentation/d/11IAMipus5qwu_LA2hLW_Kz956qSHl25bm-VReUTDl5k/edit?usp=sharing)
 
 ## Reading activity (day one)
 #### About backpropagation
