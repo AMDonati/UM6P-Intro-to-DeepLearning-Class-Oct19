@@ -19,7 +19,7 @@ In a terminal, execute the following command:
 * [A visual proof that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html)
 
 ## Practical exercises in Python
-* exercises and solutions available here: https://github.com/AMDonati/UM6P-Intro-to-DeepLearning-Class-Oct19/notebooks
+* exercises and solutions available here: https://github.com/AMDonati/UM6P-Intro-to-DeepLearning-Class-Oct19/tree/master/notebooks
 * For the exercises of day 2, you will the tensorflow.keras high-level API for deep learning. 
 > If you don't tensorflow installed on your computer, please look at the link below to see how to install it: 
 https://www.tensorflow.org/install/pip
