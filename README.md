@@ -25,7 +25,6 @@ In a terminal, execute the following command:
 https://www.tensorflow.org/install/pip
 
 ## acknowledgements (ressources used to build-up the class' materials)
-* [Coursera class on Clustering and retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval/home/welcome)
-* [Class of Julien Chiquet](https://github.com/jchiquet/CourseUnsupervisedLearningX)
-* [Book 'Clustering', Xu &al.](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470382776)
-* Book 'Machine Learning: a probabilistic perspective', Murphy et al. 
+* [Deep Learning class of the M2 Data Science of University Paris Saclay](https://github.com/m2dsupsdlclass/lectures-labs)
+* [Deep Learning Class of Erwan Scornet, profesor at Ecole Polytechnique](https://erwanscornet.github.io/)
+* Book 'Deep Learning', Goodfellow, Bengio & Courville. 
